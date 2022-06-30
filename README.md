@@ -1,2 +1,2 @@
-# password-manager
+# PROJECTS
 password manager 
