@@ -1,2 +1,2 @@
 # PROJECTS
-password manager 
+projects 
